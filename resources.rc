@@ -1,0 +1,4 @@
+//#include "resources.h"
+#include "Header.h"
+
+MY_FILE RCDATA FILE.ico
